@@ -50,6 +50,11 @@ Rectifier without filter
 
 <img width="321" height="102" alt="image" src="https://github.com/user-attachments/assets/6d293a08-c007-4380-b59c-51d0c241ccc7" />
 
+TABULATION COLUMN
+
+rectifier with filter:
+
+![Screenshot_2025-10-22-22-53-01-10_40deb401b9ffe8e1df2f1cc5ba480b12 1](https://github.com/user-attachments/assets/de6cc32b-52ba-42ea-8840-0b281211f6ff)
 
 WAVEFORM:
 
